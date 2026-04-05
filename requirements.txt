@@ -1,0 +1,30 @@
+# Use the PyTorch extra index for specific hardware builds
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+# Core ML
+torch>=2.6.0
+transformers>=4.40.0
+datasets>=2.19.0
+
+# Retrieval & Embeddings
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+
+# Scientific Stack
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.13.0
+scikit-learn>=1.4.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Utilities
+tqdm>=4.66.0
+pyyaml>=6.0.1
+requests>=2.31.0
+
+# Notebooks
+jupyter>=1.0.0
+jupyterlab>=4.1.0
