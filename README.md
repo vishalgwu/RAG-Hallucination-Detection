@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 
 ## Weeks Timeline
-- **Week 1**: Setup ✅
+- **Week 1**: Setup 
 - **Week 2**: Response generation
 - **Weeks 3-4**: Annotation
 - **Weeks 5-7**: Signal extraction + model
